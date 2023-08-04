@@ -181,8 +181,8 @@ body{
  @media only  screen and (max-width:375px) 
 {
     .i-btn{
-        margin-top: 30px;
-        margin-left: -18px;
+        margin-top: 20px;
+        margin-left: 0px;
     }
 } 
 .card-1{
