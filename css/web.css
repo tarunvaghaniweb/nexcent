@@ -210,7 +210,13 @@ body{
     background: #263238;
     margin-top: 32px;
 }
-
+@media only  screen and (max-width:375px) 
+{
+    .footer{
+        width: 100%;
+        background: #263238;
+    }
+} 
 .row6 {
     display: flex;
 }
