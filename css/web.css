@@ -213,7 +213,7 @@ body{
 @media only  screen and (max-width:375px) 
 {
     .footer{
-        width: 100%;
+        width: 700px;
         background: #263238;
     }
 } 
