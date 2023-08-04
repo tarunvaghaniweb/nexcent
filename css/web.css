@@ -178,7 +178,7 @@ body{
     color: #4CAF4F;
     background-color: #fff;
 }
- @media only  screen and (max-width:320px) 
+ @media only  screen and (max-width:375px) 
 {
     .i-btn{
         margin-top: 30px;
