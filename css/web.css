@@ -331,7 +331,7 @@ input::placeholder {
 
 @media only screen and (max-width:375px) {
     .post-meta {
-        margin-left: 28px !important;
+        margin-left: 27px !important;
     }
 }
 
