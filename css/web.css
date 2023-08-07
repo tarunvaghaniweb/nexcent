@@ -291,11 +291,11 @@ input::placeholder {
     font-family: 'Agdasima', sans-serif;
     color: #D9DBE1;
 }
-/* @media only  screen and (max-width:320px) {
+@media only  screen and (max-width:375px) {
     .post-meta{
-       margin-left: 5px;
+       margin-left: 10px;
     }
-} */
+}
 .post-meta{
     transform: translateY(-50%);
     background-color: #fff;
