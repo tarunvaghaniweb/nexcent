@@ -91,10 +91,7 @@ body{
     font-size: 16px;
     color: #717171;
 }
-/*
-.img{
-    margin-left: 140px;
-} */
+
 .n-h1{
     font-family: 'Agdasima', sans-serif;
     font-size: 36px;
@@ -294,15 +291,11 @@ input::placeholder {
     font-family: 'Agdasima', sans-serif;
     color: #D9DBE1;
 }
-@media only  screen and (max-width:320px) {
+/* @media only  screen and (max-width:320px) {
     .post-meta{
-        /* transform: translateY(-50%);
-        background-color: #fff;
-        border-radius: 8px;
-        text-align: center;*/
        margin-left: 5px;
     }
-}
+} */
 .post-meta{
     transform: translateY(-50%);
     background-color: #fff;
