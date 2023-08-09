@@ -61,12 +61,16 @@ body {
     height: 50px;
     width: 128px;
 }
-
-.c-img {
-    margin-left: -20px;
-    height: 380px;
+@media only screen and (max-width:375px) {
+    .c-img {
+        margin-left: -20px !important;
+        height: 380px;
+    }
+    
 }
-
+.c-img{
+    margin-left: 80px;
+}
 .s-h1 {
     text-align: center;
     font-family: 'Agdasima', sans-serif;
