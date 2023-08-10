@@ -66,10 +66,17 @@ body {
         margin-left: -20px !important;
         height: 380px;
     }
-    
+
 }
 .c-img{
     margin-left: 80px;
+}
+@media only screen and (max-width:375px) {
+    .c-col {
+        margin-left: 50px !important;
+        margin-top: -58px !important;
+    }
+
 }
 .s-h1 {
     text-align: center;
@@ -205,18 +212,18 @@ body {
 
 .i-btn {
     height: 44px;
-    width: 223px;
     border: none;
     color: #4CAF4F;
     background-color: #fff;
+    justify-content: center;
 }
 
-@media only screen and (max-width:375px) {
+/* @media only screen and (max-width:375px) {
     .i-btn {
         margin-top: 20px;
         margin-left: -30px;
     }
-}
+} */
 @media only screen and (max-width:375px) {
     .heading{
         margin-right: 30px;
